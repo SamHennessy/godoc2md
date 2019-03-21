@@ -1,4 +1,4 @@
-module github.com/abursavich/godoc2md
+module github.com/SamHennessy/godoc2md
 
 go 1.12
 
